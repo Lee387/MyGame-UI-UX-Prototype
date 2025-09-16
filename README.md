@@ -1,4 +1,4 @@
-# MyGame-UI-UX-Prototype
+# MyGame-System-Analysis-Design
 
 ## About
 Analyzed and designed MyGame, a mobile application that enables users in Jabodetabek to rent and purchase console games. The project focused on building a comprehensive system to support both customer and admin needs.
